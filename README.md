@@ -1,3 +1,3 @@
 # testlagi
 haha
-ya begitulah kira2
+ya begitulah kira2 ribet jg yah
