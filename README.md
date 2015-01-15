@@ -12,3 +12,5 @@
 * git status
 * git branch
 * git remote set-url origin https://username:password@github.com/username/repository.git
+
+* nambah lagi ah test aja
