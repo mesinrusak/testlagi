@@ -3,6 +3,7 @@
 * git init
 * git add .
 * git commit -m "update"
+* git remote rm origin
 * git remote -v
 * git remote add origin https://username:password@github.com/username/repository.git
 * git push origin master
